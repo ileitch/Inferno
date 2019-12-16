@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "IndexStoreDB",
+        "repositoryURL": "https://github.com/apple/indexstore-db",
+        "state": {
+          "branch": "swift-5.1-branch",
+          "revision": "5960ba789ea7983516c7d419ad73ae264fced8ed",
+          "version": null
+        }
+      },
+      {
+        "package": "SwiftSyntax",
+        "repositoryURL": "https://github.com/apple/swift-syntax",
+        "state": {
+          "branch": null,
+          "revision": "3e3eb191fcdbecc6031522660c4ed6ce25282c25",
+          "version": "0.50100.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
